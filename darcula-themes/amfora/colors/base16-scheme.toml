@@ -1,0 +1,42 @@
+# Base16 Darcula - amfora color config
+# Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+
+[theme]
+bg = "#2B2B2B"
+fg = "#D8D8D8"
+
+bottombar_label = "#CC7832"
+bottombar_text = "#D8D8D8"
+bottombar_bg = "#323232"
+
+tab_num = "#214283"
+tab_divider = "#D0D0D0"
+
+amfora_link = "#A5C25C"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#323232"
+btn_text = "#D8D8D8"
+
+input_modal_bg = "#323232"
+input_modal_text = "#D8D8D8"
+input_modal_field_bg = "#2B2B2B"
+input_modal_field_text = "#D8D8D8"
+info_modal_bg = "#323232"
+info_modal_text = "#D8D8D8"
+error_modal_bg = "#323232"
+error_modal_text = "#D25252"
+yesno_modal_bg = "#323232"
+yesno_modal_text = "#D8D8D8"
+tofu_modal_bg = "#323232"
+tofu_modal_text = "#D8D8D8"
+subscription_modal_bg = "#323232"
+subscription_modal_text = "#D8D8D8"
+
+hdg_1 = "#9876AA"
+hdg_2 = "#A9B7C6"
+hdg_3 = "#FFC66D"
+regular_text = "#D8D8D8"
+preformatted_text = "#629755"
+list_text = "#D8D8D8"

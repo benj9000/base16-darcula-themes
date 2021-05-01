@@ -1,0 +1,45 @@
+<frescobaldi-theme name="#Darcula">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#D8D8D8" />
+    <background color="#2B2B2B" />
+    <selectiontext color="#E8E8E8" />
+    <selectionbackground color="#808080" />
+    <current color="#323232" />
+    <mark color="#214283" />
+    <error color="#323232" />
+    <search color="#" />
+    <match color="#D0D0D0" />
+    <paper color="#323232" />
+    <musichighlight color="#808080" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#79ABFF" />
+    <escape textColor="#9876AA" />
+    <comment italic="True" textColor="#808080" />
+    <value textColor="#A9B7C6" />
+    <variable textColor="#A5C25C" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#FFC66D" />
+    <error textColor="#CC7832" underline="True" underlineColor="#CC7832" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#9876AA" />
+      <dynamic bold="True" textColor="#FFC66D" />
+      <articulation bold="True" textColor="#9876AA" />
+      <fingering textColor="#A5C25C" />
+      <stringnumber textColor="#9876AA" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#A9B7C6" />
+      <lyricmode textColor="#FFC66D" />
+      <lyrictext textColor="#D8D8D8" />
+      <context bold="True" />
+      <grob textColor="#D8D8D8" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>

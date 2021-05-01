@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Darcula (https://github.com/chriskempson/base16)
+; Scheme: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:002B2B2B ; base00
+"ColorTable01"=dword:006DC6FF ; base0D
+"ColorTable02"=dword:005CC2A5 ; base0B
+"ColorTable03"=dword:00559762 ; base0C
+"ColorTable04"=dword:00FFAB79 ; base08
+"ColorTable05"=dword:003278CC ; base0E
+"ColorTable06"=dword:00AA7698 ; base09
+"ColorTable07"=dword:00D8D8D8 ; base05
+"ColorTable08"=dword:00808080 ; base03
+"ColorTable09"=dword:00323232 ; base01
+"ColorTable10"=dword:00834221 ; base02
+"ColorTable11"=dword:00808080 ; base03
+"ColorTable12"=dword:00D0D0D0 ; base04
+"ColorTable13"=dword:00D8D8D8 ; base05
+"ColorTable14"=dword:00E8E8E8 ; base06
+"ColorTable15"=dword:00F8F8F8 ; base07

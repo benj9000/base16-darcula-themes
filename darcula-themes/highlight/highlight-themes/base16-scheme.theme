@@ -1,0 +1,26 @@
+-- Name: Base16 Darcula
+-- Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#D8D8D8" }
+Canvas = { Colour="#2B2B2B" }
+Number = { Colour="#9876AA" }
+Escape = { Colour="#E8E8E8" , Italic=true}
+String = { Colour="#A5C25C" }
+BlockComment = { Colour="#808080" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#D8D8D8" }
+LineNum      = { Color="#808080" }
+PreProcessor      = { Colour="#D25252" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#79ABFF", Bold=true},
+  { Colour="#A9B7C6"},
+  { Colour="#FFC66D"},
+  { Colour="#A9B7C6"},
+  { Colour="#A9B7C6" }
+}

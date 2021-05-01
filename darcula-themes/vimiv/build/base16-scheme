@@ -1,0 +1,31 @@
+; base16-scheme
+;
+; base16: (https://github.com/chriskempson/base16)
+;
+; Scheme: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+; Template: Christian Karl <karlch at protonmail dot com>
+
+[STYLE]
+; Colors
+base00 = #2B2B2B
+base01 = #323232
+base02 = #214283
+base03 = #808080
+base04 = #D0D0D0
+base05 = #D8D8D8
+base06 = #E8E8E8
+base07 = #F8F8F8
+base08 = #79ABFF
+base09 = #9876AA
+base0a = #A9B7C6
+base0b = #A5C25C
+base0c = #629755
+base0d = #FFC66D
+base0e = #CC7832
+base0f = #D25252
+
+; Additional custom overrides, e.g.
+; font = 10pt Hack
+; thumbnail.padding = 32
+
+; vim:ft=dosini

@@ -1,0 +1,5 @@
+# Base16 Darcula for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+
+gtk-color-scheme = "bg_color:#2B2B2B\nfg_color:#D8D8D8\nbase_color:#2B2B2B\ntext_color:#D8D8D8\nselected_bg_color:#214283\nselected_fg_color:#D8D8D8\ntooltip_bg_color:#2B2B2B\ntooltip_fg_color:#D0D0D0\ntitlebar_bg_color:#2B2B2B\ntitlebar_fg_color:#FFC66D\nmenubar_bg_color:#2B2B2B\nmenubar_fg_color:#FFC66D\ntoolbar_bg_color:#2B2B2B\ntoolbar_fg_color:#A9B7C6\nmenu_bg_color:#2B2B2B\nmenu_fg_color:#D8D8D8\npanel_bg_color:#2B2B2B\npanel_fg_color:#A5C25C\nlink_color:#9876AA"
+

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Darcula by Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2B2B2B"
+idle_fg = "#D8D8D8"
+info_bg = "#629755"
+info_fg = "#2B2B2B"
+good_bg = "#A5C25C"
+good_fg = "#2B2B2B"
+warning_bg = "#A9B7C6"
+warning_fg = "#2B2B2B"
+critical_bg = "#79ABFF"
+critical_fg = "#2B2B2B"
+# The rest of the theme settings are left at default.

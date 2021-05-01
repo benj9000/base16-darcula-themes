@@ -1,0 +1,42 @@
+# Base16 Darcula 256 - alacritty color config
+# Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+colors:
+  # Default colors
+  primary:
+    background: '0x2B2B2B'
+    foreground: '0xD8D8D8'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x2B2B2B'
+    cursor: '0xD8D8D8'
+
+  # Normal colors
+  normal:
+    black:   '0x2B2B2B'
+    red:     '0x79ABFF'
+    green:   '0xA5C25C'
+    yellow:  '0xA9B7C6'
+    blue:    '0xFFC66D'
+    magenta: '0xCC7832'
+    cyan:    '0x629755'
+    white:   '0xD8D8D8'
+
+  # Bright colors
+  bright:
+    black:   '0x808080'
+    red:     '0x79ABFF'
+    green:   '0xA5C25C'
+    yellow:  '0xA9B7C6'
+    blue:    '0xFFC66D'
+    magenta: '0xCC7832'
+    cyan:    '0x629755'
+    white:   '0xF8F8F8'
+
+  indexed_colors:
+    - { index: 16, color: '0x9876AA' }
+    - { index: 17, color: '0xD25252' }
+    - { index: 18, color: '0x323232' }
+    - { index: 19, color: '0x214283' }
+    - { index: 20, color: '0xD0D0D0' }
+    - { index: 21, color: '0xE8E8E8' }

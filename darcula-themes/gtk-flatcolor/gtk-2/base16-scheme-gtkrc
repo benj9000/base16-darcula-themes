@@ -1,0 +1,15 @@
+## Base16 Darcula
+# Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#2B2B2B
+color0:#2B2B2B
+text_color:#D8D8D8
+selected_bg_color:#214283
+selected_fg_color:#D8D8D8
+tooltip_bg_color:#2B2B2B
+tooltip_fg_color:#D8D8D8
+titlebar_bg_color:#2B2B2B
+titlebar_fg_color:#D8D8D8
+menu_bg_color:#2B2B2B
+menu_fg_color:#D8D8D8
+link_color:#214283"

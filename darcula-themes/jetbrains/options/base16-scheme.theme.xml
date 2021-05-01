@@ -1,0 +1,21 @@
+<!--    Base16 Darcula
+        Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2B2B2B" />
+    <option name="treeSelectionColor" value="FFC66D" />
+    <option name="highlightColor" value="214283" />
+    <option name="secondBorderColor" value="2B2B2B" />
+    <option name="tableSelectedColor" value="FFC66D" />
+    <option name="contrastColor" value="323232" />
+    <option name="disabledColor" value="D0D0D0" />
+    <option name="secondaryBackgroundColor" value="323232" />
+    <option name="buttonColor" value="2B2B2B" />
+    <option name="selectionForegroundColor" value="E8E8E8" />
+    <option name="selectionBackgroundColor" value="FFC66D" />
+    <option name="textColor" value="E8E8E8" />
+    <option name="foregroundColor" value="D8D8D8" />
+    <option name="backgroundColor" value="2B2B2B" />
+  </component>
+</application> 

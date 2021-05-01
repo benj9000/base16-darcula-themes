@@ -1,0 +1,61 @@
+
+# base16 Darcula by Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+
+.colors *
+
+-text		$D8D8D8/$2B2B2B
+-status		$D0D0D0/$214283
+-cursor		$2B2B2B/$D8D8D8
+-selection	/$214283
+-curlin		/$323232
+-linum		$808080/$323232
+-curlinum	$D0D0D0/$323232
+-menusel	$323232/$D0D0D0
+
+-term 0 	$2B2B2B
+-term 1 	$FFC66D
+-term 2 	$A5C25C
+-term 3 	$629755
+-term 4 	$9876AA
+-term 5 	$CC7832
+-term 6 	$A9B7C6
+-term 7 	$D0D0D0
+-term 8 	$808080
+-term 9 	$FFC66D
+-term 10	$A5C25C
+-term 11	$629755
+-term 12	$79ABFF
+-term 13	$D25252
+-term 14	$A9B7C6
+-term 15	$F8F8F8
+
+=Constant	$9876AA
+=String		$A5C25C
+=Escape		$629755
+
+=Comment	$808080
+=StorageClass	+Type
+=Keyword	$CC7832
+=Conditional	$CC7832
+=Operator	$D8D8D8
+=Loop		$A9B7C6
+=Statement	$79ABFF
+=Type		$A9B7C6
+
+=DefinedIdent	$79ABFF
+=Label		$A9B7C6
+=DefinedType	$A9B7C6
+=Structure	$CC7832
+
+=Preproc	$A9B7C6
+=Include	$FFC66D
+=Define		$CC7832
+=TODO		$A9B7C6/$323232
+=Precond	$CC7832
+
+=diff.AddLine	$A5C25C/$323232
+=diff.ChgLine	$808080/$323232
+=diff.DelLine	$79ABFF/$323232
+=diff.File	$79ABFF
+=diff.FileNew	$A5C25C
+=diff.Hunk	$FFC66D

@@ -1,0 +1,12 @@
+<!--    Base16 Darcula
+        Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)   -->
+
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.0.1" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="FFC66D" />
+    <option name="accentColor" value="FFC66D" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>

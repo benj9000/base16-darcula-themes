@@ -1,0 +1,37 @@
+/**
+ * Base16 Darcula ROFI Color theme
+ *
+ * Authors
+ *  Scheme: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+ *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
+ */
+
+* {
+    red:                         rgba ( 121, 171, 255, 100 % );
+    blue:                        rgba ( 255, 198, 109, 100 % );
+    lightfg:                     rgba ( 232, 232, 232, 100 % );
+    lightbg:                     rgba ( 50, 50, 50, 100 % );
+    foreground:                  rgba ( 216, 216, 216, 100 % );
+    background:                  rgba ( 43, 43, 43, 100 % );
+    background-color:            rgba ( 43, 43, 43, 0 % );
+    separatorcolor:              @foreground;
+    border-color:                @foreground;
+    selected-normal-foreground:  @lightbg;
+    selected-normal-background:  @lightfg;
+    selected-active-foreground:  @background;
+    selected-active-background:  @blue;
+    selected-urgent-foreground:  @background;
+    selected-urgent-background:  @red;
+    normal-foreground:           @foreground;
+    normal-background:           @background;
+    active-foreground:           @blue;
+    active-background:           @background;
+    urgent-foreground:           @red;
+    urgent-background:           @background;
+    alternate-normal-foreground: @foreground;
+    alternate-normal-background: @lightbg;
+    alternate-active-foreground: @blue;
+    alternate-active-background: @lightbg;
+    alternate-urgent-foreground: @red;
+    alternate-urgent-background: @lightbg;
+}

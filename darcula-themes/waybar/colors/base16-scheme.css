@@ -1,0 +1,23 @@
+/*
+*
+* Base16 Darcula
+* Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+*
+*/
+
+@define-color base00 #2B2B2B;
+@define-color base01 #323232;
+@define-color base02 #214283;
+@define-color base03 #808080;
+@define-color base04 #D0D0D0;
+@define-color base05 #D8D8D8;
+@define-color base06 #E8E8E8;
+@define-color base07 #F8F8F8;
+@define-color base08 #79ABFF;
+@define-color base09 #9876AA;
+@define-color base0A #A9B7C6;
+@define-color base0B #A5C25C;
+@define-color base0C #629755;
+@define-color base0D #FFC66D;
+@define-color base0E #CC7832;
+@define-color base0F #D25252;

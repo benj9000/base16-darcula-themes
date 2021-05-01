@@ -1,0 +1,15 @@
+/*
+Base16 Darcula
+Author: Matthias Brandt (github.com/PlusMinus0) based on Darcula theme by Konstantin Bulenkov (github.com/bulenkov/Darcula)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #2B2B2B;
+@define-color fg_color #D8D8D8;
+@define-color base_color #323232;
+@define-color text_color #D8D8D8;
+@define-color text_color_disabled #808080;
+@define-color selected_bg_color #214283;
+@define-color selected_fg_color #D8D8D8;
+@define-color tooltip_bg_color #2B2B2B;
+@define-color tooltip_fg_color #D8D8D8;
